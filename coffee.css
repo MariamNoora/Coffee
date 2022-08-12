@@ -1,0 +1,170 @@
+header {
+    background-color: rgb(181, 139, 110);
+    width: 100%;
+    height: 150px;
+    font-family: 'Eagle Lake', cursive;
+    color: rgb(116, 92, 75);
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+#head_icon {
+    border-radius: 100%;
+    width: 100px;
+    height: auto;
+    padding-top: 20px;
+}
+
+#d2 {
+    width: 100%;
+    height: 20px;
+    background-color: rgb(181, 140, 110);
+    color: rgb(125, 97, 77);
+    font-size: 20px;
+    position: sticky;
+    top: 5px;
+}
+
+body {
+    font-size: 25px;
+    color: rgb(130, 115, 103);
+    background-color: rgb(32, 13, 1);
+}
+
+#d {
+    width: auto;
+    height: auto;
+}
+
+#d1 {
+    width: auto;
+    height: auto;
+}
+
+#top_head {
+    font-family: 'Source Code Pro', monospace;
+    color: rgb(115, 92, 75);
+}
+
+#do {
+    font-family: 'Source Code Pro', monospace;
+    color: rgb(110, 84, 66);
+    font-size: 40px;
+}
+
+#d3 {
+    width: 600px;
+    height: auto;
+    border: 5px;
+    border-style: groove;
+    border-color: rgb(96, 69, 49);
+    padding: 20px;
+}
+
+#t {
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 65px;
+    color: rgb(106, 77, 54);
+    text-align: center;
+}
+
+#d4 {
+    margin-top: 1px;
+    padding: 12px;
+}
+
+#d5 {
+    width: 60%;
+    height: 30%;
+    margin: 5px;
+    display: flex;
+    margin-left: 20%;
+}
+
+#i1 {
+    width: 40%;
+    margin: 15px;
+    margin: 10px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+#de1 {
+    width: 60%;
+}
+
+#gal {
+    width: 90%;
+    background-color: rgb(181, 139, 110);
+    display: flex;
+    margin-left: 5%;
+}
+
+#pic1 {
+    width: 30%;
+    margin: 3%;
+}
+
+#pic2 {
+    width: 30%;
+    margin: 3%;
+}
+
+#pic3 {
+    width: 30%;
+    margin: 3%;
+}
+
+h2 {
+    text-align: center;
+    font-family: monospace;
+}
+
+#form {
+    font-size: large;
+    width: 60%;
+    background-color: rgb(99, 83, 63);
+    color: darkgray;
+}
+
+footer {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(181, 139, 110);
+    display: flex;
+    justify-content: space-between;
+}
+
+#f1 {
+    margin: 50px;
+    width: 25%;
+}
+
+#foot_icon {
+    border-radius: 100%;
+    width: 200px;
+    height: auto;
+    padding-top: 20px;
+}
+
+#f2 {
+    margin: 20px;
+    width: 50%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(85, 76, 68);
+}
+
+a {
+    color: rgb(85, 76, 68);
+}
+
+#f3 {
+    width: 25%;
+    color: rgb(85, 76, 68);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
